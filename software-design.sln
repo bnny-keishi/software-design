@@ -45,7 +45,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5_CustomDescendingOrder
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab1", "lab1\lab1.csproj", "{987776AC-DF81-45AF-AC2C-6FD0E4B1FDBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3_RecursiveFibonacciSequence", "Task3_RecursiveFibonacciSequence\Task3_RecursiveFibonacciSequence.csproj", "{EA76EDCD-224F-489B-BE65-B909B29BCBA3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3", "Task3_RecursiveFibonacciSequence\Task3.csproj", "{EA76EDCD-224F-489B-BE65-B909B29BCBA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
